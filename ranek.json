@@ -10,6 +10,17 @@
       "numero": "25",
       "estado": "RJ",
       "cidade": "Rio de Janeiro"
+    },
+    {
+      "id": "sara@origamid.com",
+      "email": "sara@origamid.com",
+      "nome": "Sara Rodrigues",
+      "senha": "123",
+      "rua": "Rua Ali Perto",
+      "cep": "12345678",
+      "numero": "25",
+      "estado": "SP",
+      "cidade": "São Paulo"
     }
   ],
   "produto": [
