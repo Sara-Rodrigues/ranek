@@ -290,6 +290,38 @@
       "vendido": "false",
       "descricao": "Esse é um novo tablet.",
       "fotos": null
+    },
+    {
+      "nome": "Sara",
+      "preco": "18",
+      "descricao": "teste",
+      "fotos": null,
+      "usuario_id": "andre@origamid.com",
+      "id": "L8Nce9y"
+    },
+    {
+      "nome": "Sara",
+      "preco": "18",
+      "descricao": "teste",
+      "fotos": null,
+      "usuario_id": "andre@origamid.com",
+      "id": "QRsSNou"
+    },
+    {
+      "nome": "Sara",
+      "preco": "18",
+      "descricao": "teste",
+      "fotos": null,
+      "usuario_id": "andre@origamid.com",
+      "id": "FniEOTI"
+    },
+    {
+      "nome": "Tablet",
+      "preco": "2345",
+      "descricao": "Esse é um tablet novo",
+      "fotos": null,
+      "usuario_id": "sara@origamid.com",
+      "id": "I5njI5d"
     }
   ]
 }
